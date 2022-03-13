@@ -1,2 +1,3 @@
 # react-pdf
-Example react pdf
+npm i
+npm start
